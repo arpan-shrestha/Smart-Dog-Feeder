@@ -15,3 +15,6 @@ Stray dogs in Nepal often struggle to find food, leading to poor health and hung
 💸 Cost-effective & Scalable for multiple locations.<br/>
 <br/>
 Combining Raspberry Pi, Image Processing, GSM, GPS, and IoT, this solution supports animal welfare groups like Shena Care in feeding stray dogs more efficiently.
+<br/>
+# Working Mechanism
+![Image](https://github.com/user-attachments/assets/05a35029-733d-4430-bb97-4af7ee151176)
