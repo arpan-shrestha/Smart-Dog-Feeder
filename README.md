@@ -18,3 +18,6 @@ Combining Raspberry Pi, Image Processing, GSM, GPS, and IoT, this solution suppo
 <br/>
 # Working Mechanism
 ![Image](https://github.com/user-attachments/assets/05a35029-733d-4430-bb97-4af7ee151176)
+<br/>
+# Team
+![Image](https://github.com/user-attachments/assets/310e3b0e-e14c-4c32-b93c-dfbc513de1b2)
